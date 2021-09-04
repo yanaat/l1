@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background-color: LightSteelBlue;
+}
+header {
+    background-color: MediumSlateBlue;
+    padding: 10px;
+}
+header a{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    color: Indigo;
+    border: 3px solid Indigo
+}
+h1 {
+    color: Indigo;
+    text-align: center;
+}
+footer p{
+    background-color: MediumSlateBlue;
+    color: black;
+    padding: 10px;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid Indigo;
+    border-radius: 10px;
+    background-color: Indigo;
+    margin: 15px;
+    padding: 5px;
+}
+nav {
+    background-color: MediumSlateBlue;
+    padding: 20px;
+}
+.popular {
+   background-color: white; 
+   color: Indigo;
+}
+h2 {
+    color: Indigo;
+    text-align: center;
+}
+main a {
+    text-decoration: none;
+}
